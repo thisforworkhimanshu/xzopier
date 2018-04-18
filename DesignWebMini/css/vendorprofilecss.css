@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 28, 2018, 1:41:47 PM
+    Author     : Himanshu
+*/
+
+.container{
+    position: relative;
+    width:100%;
+    height: 550px;
+    box-sizing: border-box;
+    background-color: #f1f2e3;
+}
+
+.container .profile{
+    position: absolute;
+    width: 30%;
+    left: 33.33%;
+    top: 2%;
+}
+
+#vname,#vpass,#vemail,#vmobile,#addressone,#addresstwo,#addressthree,#city,#state,#firmname{
+    height: 30px;
+    width: 100%;
+    border: none;
+    font-size: 1vw;
+    background-color: #f1f2e3;
+}
+
+#btnedit{
+    padding: 8px 30px;
+    font-size: 1vw;
+    border: none;
+    cursor: pointer;
+    background-color: #4dfc35;
+    font-weight: bold;
+    margin-left: 40%;
+}
+
+#btnupdate{
+    padding: 8px 30px;
+    font-size: 1vw;
+    border: none;
+    cursor: pointer;
+    background-color: #4dfc35;
+    font-weight: bold;
+    margin-left: 38%;
+}

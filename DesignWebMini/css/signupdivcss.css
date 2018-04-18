@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 14, 2018, 7:15:24 PM
+    Author     : Himanshu
+*/
+
+.signupdiv{
+    position: absolute;
+    left: 0;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+#uname{
+    height: 30px;
+    width: 100%;
+    border: none;
+    font-size: 1vw;
+}
+
+#upass,#ucpass{
+    height: 30px;
+    width: 100%;
+    border: none;
+    font-size: 1vw;
+}
+#uemail,#umobile,#firmname{
+    height: 30px;
+    width: 100%;
+    border: none;
+    font-size: 1vw;
+}
+
+.signupdivadd{
+   position: absolute;
+   left: 0;
+   width: 30%;
+   margin-top: 5%;
+   margin-left: 35%;
+}
+
+#addressone,#addresstwo,#addressthree,#city,#state{
+    height: 30px;
+    width: 100%;
+    border: none;
+    font-size: 1vw;
+}
+
+.signupbtn{
+   /*position: relative;*/
+   left: 0;
+   width: 20%;
+   margin-top: 30%;
+   margin-left: 28%;
+}
+
+.signupbtn #submitbtn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 2vw;
+}
+
